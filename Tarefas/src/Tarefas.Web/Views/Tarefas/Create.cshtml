@@ -1,23 +1,17 @@
 @model Tarefas.Web.Models.TarefaViewModel
 
 <form asp-action="Create">
-    @Html.DisplayNameFor(model => model.Titulo)
-    <input asp-for="Titulo" />
-    <br>
-    @Html.DisplayNameFor(model => model.Descricao)
-    <input asp-for="Descricao"/>
+    @* @Html.LabelFor(model => model.Titulo, new {@class = "form-label"}) *@
+    @* @Html.TextBoxFor(model => model.Titulo, new {@class = "form-control"}) *@
 
-    <input type="Submit" />
-</form>
-
-<form>
   <div class="form-group">
-    <label for="exampleInputEmail1">Titulo</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    <label for="Titulo">Titulo</label>
+    <input type="Titulo" class="form-control" id="digiteotitulo" placeholder="Digite o título">
+    <small id="Titulo" class="form-text text-muted">Digite o título de acordo com a tarefa associada.</small>
   </div>
+
   <div class="form-group">
-    <label for="exampleInputPassword1">Descrição</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    <label for="Descricao">Descrição</label>
+    <input type="Descricao" class="form-control" id="digiteadescricao" placeholder="Digite a descrição">
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
