@@ -1,4 +1,5 @@
 # bootcamp
+<<<<<<< HEAD
 # clonar git 
 # git status 
 # entrar no diretorio 
@@ -17,3 +18,6 @@
 # dotnet new sln 
 # dotnet new globaljson (para linux) 
 # dotnet --list-sdks
+=======
+
+>>>>>>> aad76b925e6c3d815f50028a19dea466a94bdb86
