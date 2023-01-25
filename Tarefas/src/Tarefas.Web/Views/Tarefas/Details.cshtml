@@ -2,13 +2,13 @@
 
 <form asp-action="Details">
   @Html.LabelFor(model => model.Id, new {@class = "form-label"})
-  @Html.TextBoxFor(model => model.Id, new {@class = "form-control"})
+  @Html.TextBoxFor(model => model.Id, new {@class = "form-control", @readonly = "readonly"})
 
   @Html.LabelFor(model => model.Titulo, new {@class = "form-label"})
-  @Html.TextBoxFor(model => model.Titulo, new {@class = "form-control"})
+  @Html.TextBoxFor(model => model.Titulo, new {@class = "form-control", @readonly = "readonly"})
 
   @Html.LabelFor(model => model.Descricao, new {@class = "form-label"})
-  @Html.TextBoxFor(model => model.Descricao, new {@class = "form-control"})
+  @Html.TextBoxFor(model => model.Descricao, new {@class = "form-control", @readonly = "readonly"})
 
 </form>
 

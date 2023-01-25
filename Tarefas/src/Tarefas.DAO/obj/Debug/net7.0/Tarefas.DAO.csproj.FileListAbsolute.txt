@@ -1,0 +1,12 @@
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.AssemblyReference.cache
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.GeneratedMSBuildEditorConfig.editorconfig
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfoInputs.cache
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.AssemblyInfo.cs
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.csproj.CoreCompileInputs.cache
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.deps.json
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/bin/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.dll
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/refint/Tarefas.DAO.dll
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/Tarefas.DAO.pdb
+/home/decom/Tarefas/bootcamp/Tarefas/src/Tarefas.DAO/obj/Debug/net7.0/ref/Tarefas.DAO.dll
