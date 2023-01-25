@@ -1,23 +1,19 @@
 # bootcamp
-<<<<<<< HEAD
-# clonar git 
-# git status 
-# entrar no diretorio 
-# git status novamente 
-# git add .  
-# git status 
-# git commit -m "envio de arquivos" 
-# git push 
-# git commit -am "remoção de arquivos" 
-# git push  
-# Criar diretórios 
-# mkdir Tarefas 
-# cd Tarefas 
-# mkdir src 
-# cd src 
-# dotnet new sln 
-# dotnet new globaljson (para linux) 
-# dotnet --list-sdks
-=======
-
->>>>>>> aad76b925e6c3d815f50028a19dea466a94bdb86
+Primeiro passo: clonar git 
+Segundo passo:  git status 
+Terceiro passo:  entrar no diretorio 
+Quarto passo:  git status novamente 
+Quinto passo:  git add .  
+Sexto passo:  git status 
+Sétimo passo:  git commit -m "envio de arquivos" 
+Oitavo passo:  git push 
+Nono passo:  git commit -am "remoção de arquivos" 
+Décimo passo:  git push  
+Décimo Primeiro passo:  Criar diretórios 
+Décimo Segundo passo:  mkdir Tarefas 
+Décimo Terceiro passo:  cd Tarefas 
+Décimo Quarto passo:  mkdir src 
+Décimo Quinto passo:  cd src 
+Décimo Sexto passo:  dotnet new sln 
+Décimo Sétimo passo:  dotnet new globaljson (para linux) 
+Décimo Oitavo passo:  dotnet --list-sdks
