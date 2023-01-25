@@ -2,22 +2,42 @@
 
 <table class="table table-bordered">
   <thead>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+
         <th>
             @Html.DisplayNameFor(model => model.Titulo)
         </th>
+
         <th>
             @Html.DisplayNameFor(model => model.Descricao)
         </th>
+
+        <th>
+            Ações
+        </th>
+
   </thead>
-  
+
       @foreach (var item in Model)
     {
     <tr>
         <td>
+            @item.Id
+        </td>
+        
+        <td>
             @item.Titulo
         </td>
+        
         <td>
             @item.Descricao
+        </td>
+
+        <td>
+            <a aps-asp-controller="Tarefa" asp-action="Details" asp-route-id="@item.Id">Detalhes</a>
         </td>
     </tr>   
     }
